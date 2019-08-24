@@ -1,0 +1,11 @@
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\bin\Debug\Match BPM.exe.config
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\bin\Debug\Match BPM.exe
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\bin\Debug\Match BPM.pdb
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match BPM.csprojAssemblyReference.cache
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match_BPM.Form1.resources
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match_BPM.Properties.Resources.resources
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match BPM.csproj.GenerateResource.cache
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match BPM.csproj.CoreCompileInputs.cache
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match BPM.exe
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match BPM.pdb
+C:\Users\KUBA\source\repos\Match BPM\Match BPM\obj\Debug\Match_BPM.SplashAnimcs.resources
